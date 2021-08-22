@@ -1,4 +1,4 @@
-# tokenwallet-js
+# multi-wallet-generator-js
 
 JavaScript Client-Side Bitcoin And Ethereum Wallet Generator
 
